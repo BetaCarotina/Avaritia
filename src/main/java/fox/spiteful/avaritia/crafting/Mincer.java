@@ -26,7 +26,7 @@ public class Mincer {
         "cropFerranium", "cropAurigold", "cropDiamahlia", "cropLapender", "cropEmeryllis", "cropRedstodendron", "cropCuprosia",
         "cropPetinia", "cropPlombean", "cropSilverweed", "cropJaslumine", "cropNiccissus", "cropPlatiolus", "cropOsmonium",
         "cropSandPear", "cropCitron", "cropCocoabeans", "cropCocoaBeans" "cropOat", "cropAbyssalOat", "cropCandleberry",
-	"cropGrapes", "cropAnanas", "cropCoffeebeans", "cropCoffeeBeans", "cropCurrant", "cropAvacado"};
+	"cropGrapes", "cropAnanas", "cropCoffeebeans", "cropCoffeeBeans", "cropCurrant", "cropAvacado", "cropHelderBerry"};
 	private static final String[] knownMeatEntries = new String[]{"ingotMeatRaw", "dustMeatRaw", "ingotFishRaw", "dustFishRaw", "foodMuttonraw",
 	"foodHamraw", "foodBaconraw", "foodRibraw", "foodRibeyesteakraw", "foodDograw", "foodHorseraw", "foodMuleraw", "foodDonkeyraw", "foodScrapmeat"};
 	private static List<ItemStack> knownMeats = new ArrayList<ItemStack>();
